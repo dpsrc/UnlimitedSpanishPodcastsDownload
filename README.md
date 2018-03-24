@@ -1,4 +1,4 @@
-Downloads the podcast episodes from https://www.unlimitedspanish.com/podcasts/ - the excellent Spanish learning resource by Òscar Pellus I was lucky to enjoy.
+Downloads the podcast episodes from https://www.unlimitedspanish.com/podcasts/ - the excellent Spanish learning resource by Òscar Pellus I have been lucky to enjoy.
 
 It parses each episode page and obtains the URLs of .mp3 and .pdf files as well as the episode name.
 
