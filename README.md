@@ -2,7 +2,7 @@ Downloads the podcast episodes from https://www.unlimitedspanish.com/podcasts/ -
 
 It parses each episode page and obtains the URLs of .mp3 and .pdf files as well as the episode name.
 
-Then it downloads these files and renames it to the episode name.
+Then it downloads these files and renames them to the episode name.
 
 Different formats of URLs and names for different episode diapasons as well as known special cases (typos and not only those) for some episodes are taken into account.
 
